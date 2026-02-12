@@ -21,8 +21,8 @@
   "sideEffects": false,
   "main": "./src/index.ts",
   "dependencies": {
-    "@langchain/community": "^0.3.41",
-    "@langchain/core": "^0.3.45",
+    "@langchain/community": "^1.1.14",
+    "@langchain/core": "^1.1.14",
     "@xmldom/xmldom": "^0.9.8",
     "concat-stream": "^2.0.0",
     "mammoth": "^1.8.0",
